@@ -2,7 +2,7 @@
  * @Author         : yanyongyu
  * @Date           : 2020-04-14 21:24:19
  * @LastEditors    : yanyongyu
- * @LastEditTime   : 2020-04-14 22:24:01
+ * @LastEditTime   : 2020-04-14 22:26:16
  * @Description    : None
  * @GitHub         : https://github.com/yanyongyu
  -->
@@ -11,7 +11,7 @@
 
 ## 简介
 
-使用 `cocoNLP` 抽取时间点并添加定时器以实现定时提醒用户
+通过哔哩哔哩接口查询番剧排行以及时间表
 
 ## 安装
 
